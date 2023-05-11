@@ -13,8 +13,6 @@
 
 ## About The Project
 
-![Screen Shot](https://imgur.com/a/LT0mJCx)
-
 This is a backend server application built with Node.js and Express.js, along with the Mongoose library for connecting to a MongoDB database. It uses the CORS library to handle Cross-Origin Resource Sharing and Nodemon for automatic server restarts during development.
 
 
